@@ -115,5 +115,5 @@ On Windows PowerShell: `$env:OPENWEATHER_API_KEY="your_key"` before running the 
 
 ## 👤 Author
 
-**Nalin Gupta** · B.Tech Computer Engineering, NMIMS Indore
+**Nalin Gupta** 
 [GitHub](https://github.com/nalingupta01) · [LinkedIn](https://linkedin.com/in/guptanalin)
