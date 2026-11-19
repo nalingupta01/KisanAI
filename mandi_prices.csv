@@ -1,0 +1,391 @@
+state,district,market,commodity,variety,arrival_date,min_price,max_price,modal_price
+Rajasthan,Jaipur,Jaipur Mandi,Wheat,Lokwan,2026-07-02,2113,2613,2377
+Rajasthan,Kota,Kota Mandi,Wheat,Lokwan,2026-07-02,1953,2390,2175
+Rajasthan,Bikaner,Bikaner Mandi,Wheat,Lokwan,2026-07-02,2250,2596,2396
+Rajasthan,Jaipur,Jaipur Mandi,Rice,Common,2026-07-02,3389,3866,3709
+Rajasthan,Kota,Kota Mandi,Rice,Common,2026-07-02,2648,3207,2947
+Rajasthan,Bikaner,Bikaner Mandi,Rice,Common,2026-07-02,3269,3985,3649
+Rajasthan,Jaipur,Jaipur Mandi,Onion,Red,2026-07-02,1842,2169,2016
+Rajasthan,Kota,Kota Mandi,Onion,Red,2026-07-02,1388,1529,1469
+Rajasthan,Bikaner,Bikaner Mandi,Onion,Red,2026-07-02,1147,1308,1226
+Rajasthan,Jaipur,Jaipur Mandi,Potato,Jyoti,2026-07-02,860,1056,959
+Rajasthan,Kota,Kota Mandi,Potato,Jyoti,2026-07-02,802,947,904
+Rajasthan,Bikaner,Bikaner Mandi,Potato,Jyoti,2026-07-02,1069,1272,1152
+Rajasthan,Jaipur,Jaipur Mandi,Tomato,Hybrid,2026-07-02,1920,2199,2094
+Rajasthan,Kota,Kota Mandi,Tomato,Hybrid,2026-07-02,2265,2697,2488
+Rajasthan,Bikaner,Bikaner Mandi,Tomato,Hybrid,2026-07-02,2138,2553,2298
+Rajasthan,Jaipur,Jaipur Mandi,Mustard,Black (Sarson),2026-07-02,5066,5997,5470
+Rajasthan,Kota,Kota Mandi,Mustard,Black (Sarson),2026-07-02,4801,5670,5146
+Rajasthan,Bikaner,Bikaner Mandi,Mustard,Black (Sarson),2026-07-02,4914,5747,5181
+Rajasthan,Jaipur,Jaipur Mandi,Cotton,Medium Staple,2026-07-02,6296,7612,6978
+Rajasthan,Kota,Kota Mandi,Cotton,Medium Staple,2026-07-02,6204,7422,6947
+Rajasthan,Bikaner,Bikaner Mandi,Cotton,Medium Staple,2026-07-02,6825,8442,7572
+Rajasthan,Jaipur,Jaipur Mandi,Maize,Yellow,2026-07-02,1932,2379,2181
+Rajasthan,Kota,Kota Mandi,Maize,Yellow,2026-07-02,1992,2236,2123
+Rajasthan,Bikaner,Bikaner Mandi,Maize,Yellow,2026-07-02,1843,2277,2044
+Rajasthan,Jaipur,Jaipur Mandi,Gram,Desi,2026-07-02,5179,6150,5770
+Rajasthan,Kota,Kota Mandi,Gram,Desi,2026-07-02,4722,5481,5257
+Rajasthan,Bikaner,Bikaner Mandi,Gram,Desi,2026-07-02,5037,5773,5523
+Rajasthan,Jaipur,Jaipur Mandi,Sugarcane,Co-0238,2026-07-02,372,418,392
+Rajasthan,Kota,Kota Mandi,Sugarcane,Co-0238,2026-07-02,349,426,383
+Rajasthan,Bikaner,Bikaner Mandi,Sugarcane,Co-0238,2026-07-02,337,397,378
+Uttar Pradesh,Lucknow,Lucknow Mandi,Wheat,Lokwan,2026-07-02,2157,2570,2337
+Uttar Pradesh,Kanpur,Kanpur Mandi,Wheat,Lokwan,2026-07-02,2160,2432,2269
+Uttar Pradesh,Agra,Agra Mandi,Wheat,Lokwan,2026-07-02,2075,2272,2162
+Uttar Pradesh,Lucknow,Lucknow Mandi,Rice,Common,2026-07-02,3114,3664,3510
+Uttar Pradesh,Kanpur,Kanpur Mandi,Rice,Common,2026-07-02,2430,2868,2724
+Uttar Pradesh,Agra,Agra Mandi,Rice,Common,2026-07-02,3121,3602,3364
+Uttar Pradesh,Lucknow,Lucknow Mandi,Onion,Red,2026-07-02,1714,2077,1858
+Uttar Pradesh,Kanpur,Kanpur Mandi,Onion,Red,2026-07-02,862,968,923
+Uttar Pradesh,Agra,Agra Mandi,Onion,Red,2026-07-02,1879,2202,1999
+Uttar Pradesh,Lucknow,Lucknow Mandi,Potato,Jyoti,2026-07-02,1020,1234,1148
+Uttar Pradesh,Kanpur,Kanpur Mandi,Potato,Jyoti,2026-07-02,1113,1388,1264
+Uttar Pradesh,Agra,Agra Mandi,Potato,Jyoti,2026-07-02,1384,1659,1536
+Uttar Pradesh,Lucknow,Lucknow Mandi,Tomato,Hybrid,2026-07-02,888,1012,965
+Uttar Pradesh,Kanpur,Kanpur Mandi,Tomato,Hybrid,2026-07-02,1699,2051,1880
+Uttar Pradesh,Agra,Agra Mandi,Tomato,Hybrid,2026-07-02,1655,1976,1847
+Uttar Pradesh,Lucknow,Lucknow Mandi,Mustard,Black (Sarson),2026-07-02,4860,5804,5265
+Uttar Pradesh,Kanpur,Kanpur Mandi,Mustard,Black (Sarson),2026-07-02,5380,6139,5643
+Uttar Pradesh,Agra,Agra Mandi,Mustard,Black (Sarson),2026-07-02,4937,6240,5600
+Uttar Pradesh,Lucknow,Lucknow Mandi,Cotton,Medium Staple,2026-07-02,6140,7234,6829
+Uttar Pradesh,Kanpur,Kanpur Mandi,Cotton,Medium Staple,2026-07-02,7035,7706,7361
+Uttar Pradesh,Agra,Agra Mandi,Cotton,Medium Staple,2026-07-02,6801,8046,7195
+Uttar Pradesh,Lucknow,Lucknow Mandi,Maize,Yellow,2026-07-02,1997,2229,2122
+Uttar Pradesh,Kanpur,Kanpur Mandi,Maize,Yellow,2026-07-02,2000,2204,2093
+Uttar Pradesh,Agra,Agra Mandi,Maize,Yellow,2026-07-02,2014,2277,2120
+Uttar Pradesh,Lucknow,Lucknow Mandi,Gram,Desi,2026-07-02,5169,5960,5416
+Uttar Pradesh,Kanpur,Kanpur Mandi,Gram,Desi,2026-07-02,5065,5794,5405
+Uttar Pradesh,Agra,Agra Mandi,Gram,Desi,2026-07-02,5487,6329,5887
+Uttar Pradesh,Lucknow,Lucknow Mandi,Sugarcane,Co-0238,2026-07-02,354,409,386
+Uttar Pradesh,Kanpur,Kanpur Mandi,Sugarcane,Co-0238,2026-07-02,298,357,328
+Uttar Pradesh,Agra,Agra Mandi,Sugarcane,Co-0238,2026-07-02,324,363,349
+Madhya Pradesh,Indore,Indore Mandi,Wheat,Lokwan,2026-07-02,2099,2481,2373
+Madhya Pradesh,Bhopal,Bhopal Mandi,Wheat,Lokwan,2026-07-02,1960,2160,2066
+Madhya Pradesh,Ujjain,Ujjain Mandi,Wheat,Lokwan,2026-07-02,1959,2342,2171
+Madhya Pradesh,Indore,Indore Mandi,Rice,Common,2026-07-02,3210,4018,3604
+Madhya Pradesh,Bhopal,Bhopal Mandi,Rice,Common,2026-07-02,3398,3887,3669
+Madhya Pradesh,Ujjain,Ujjain Mandi,Rice,Common,2026-07-02,3276,3660,3468
+Madhya Pradesh,Indore,Indore Mandi,Onion,Red,2026-07-02,1024,1173,1098
+Madhya Pradesh,Bhopal,Bhopal Mandi,Onion,Red,2026-07-02,1597,1912,1741
+Madhya Pradesh,Ujjain,Ujjain Mandi,Onion,Red,2026-07-02,974,1209,1101
+Madhya Pradesh,Indore,Indore Mandi,Potato,Jyoti,2026-07-02,820,961,911
+Madhya Pradesh,Bhopal,Bhopal Mandi,Potato,Jyoti,2026-07-02,1122,1328,1259
+Madhya Pradesh,Ujjain,Ujjain Mandi,Potato,Jyoti,2026-07-02,1146,1418,1273
+Madhya Pradesh,Indore,Indore Mandi,Tomato,Hybrid,2026-07-02,1424,1670,1507
+Madhya Pradesh,Bhopal,Bhopal Mandi,Tomato,Hybrid,2026-07-02,707,896,800
+Madhya Pradesh,Ujjain,Ujjain Mandi,Tomato,Hybrid,2026-07-02,2037,2422,2312
+Madhya Pradesh,Indore,Indore Mandi,Mustard,Black (Sarson),2026-07-02,4772,5763,5342
+Madhya Pradesh,Bhopal,Bhopal Mandi,Mustard,Black (Sarson),2026-07-02,5048,5915,5318
+Madhya Pradesh,Ujjain,Ujjain Mandi,Mustard,Black (Sarson),2026-07-02,4796,5894,5268
+Madhya Pradesh,Indore,Indore Mandi,Cotton,Medium Staple,2026-07-02,6434,7436,6743
+Madhya Pradesh,Bhopal,Bhopal Mandi,Cotton,Medium Staple,2026-07-02,6199,7575,6784
+Madhya Pradesh,Ujjain,Ujjain Mandi,Cotton,Medium Staple,2026-07-02,6846,7917,7338
+Madhya Pradesh,Indore,Indore Mandi,Maize,Yellow,2026-07-02,1760,2176,1947
+Madhya Pradesh,Bhopal,Bhopal Mandi,Maize,Yellow,2026-07-02,2015,2242,2146
+Madhya Pradesh,Ujjain,Ujjain Mandi,Maize,Yellow,2026-07-02,1778,2184,2010
+Madhya Pradesh,Indore,Indore Mandi,Gram,Desi,2026-07-02,5449,6185,5714
+Madhya Pradesh,Bhopal,Bhopal Mandi,Gram,Desi,2026-07-02,5031,5502,5258
+Madhya Pradesh,Ujjain,Ujjain Mandi,Gram,Desi,2026-07-02,4773,5635,5390
+Madhya Pradesh,Indore,Indore Mandi,Sugarcane,Co-0238,2026-07-02,319,390,350
+Madhya Pradesh,Bhopal,Bhopal Mandi,Sugarcane,Co-0238,2026-07-02,353,426,392
+Madhya Pradesh,Ujjain,Ujjain Mandi,Sugarcane,Co-0238,2026-07-02,354,436,399
+Punjab,Ludhiana,Ludhiana Mandi,Wheat,Lokwan,2026-07-02,2156,2607,2339
+Punjab,Amritsar,Amritsar Mandi,Wheat,Lokwan,2026-07-02,2011,2294,2154
+Punjab,Patiala,Patiala Mandi,Wheat,Lokwan,2026-07-02,1992,2390,2185
+Punjab,Ludhiana,Ludhiana Mandi,Rice,Common,2026-07-02,2854,3470,3114
+Punjab,Amritsar,Amritsar Mandi,Rice,Common,2026-07-02,2332,2886,2648
+Punjab,Patiala,Patiala Mandi,Rice,Common,2026-07-02,3506,3821,3653
+Punjab,Ludhiana,Ludhiana Mandi,Onion,Red,2026-07-02,1230,1404,1336
+Punjab,Amritsar,Amritsar Mandi,Onion,Red,2026-07-02,1534,1792,1614
+Punjab,Patiala,Patiala Mandi,Onion,Red,2026-07-02,1495,1780,1656
+Punjab,Ludhiana,Ludhiana Mandi,Potato,Jyoti,2026-07-02,1270,1477,1356
+Punjab,Amritsar,Amritsar Mandi,Potato,Jyoti,2026-07-02,1355,1606,1469
+Punjab,Patiala,Patiala Mandi,Potato,Jyoti,2026-07-02,1236,1494,1367
+Punjab,Ludhiana,Ludhiana Mandi,Tomato,Hybrid,2026-07-02,2397,2676,2522
+Punjab,Amritsar,Amritsar Mandi,Tomato,Hybrid,2026-07-02,2152,2626,2422
+Punjab,Patiala,Patiala Mandi,Tomato,Hybrid,2026-07-02,1044,1223,1157
+Punjab,Ludhiana,Ludhiana Mandi,Mustard,Black (Sarson),2026-07-02,4886,5946,5451
+Punjab,Amritsar,Amritsar Mandi,Mustard,Black (Sarson),2026-07-02,4943,5693,5370
+Punjab,Patiala,Patiala Mandi,Mustard,Black (Sarson),2026-07-02,4572,5533,5152
+Punjab,Ludhiana,Ludhiana Mandi,Cotton,Medium Staple,2026-07-02,5978,7217,6766
+Punjab,Amritsar,Amritsar Mandi,Cotton,Medium Staple,2026-07-02,6021,6861,6467
+Punjab,Patiala,Patiala Mandi,Cotton,Medium Staple,2026-07-02,6565,7631,7104
+Punjab,Ludhiana,Ludhiana Mandi,Maize,Yellow,2026-07-02,1648,2068,1854
+Punjab,Amritsar,Amritsar Mandi,Maize,Yellow,2026-07-02,2098,2387,2203
+Punjab,Patiala,Patiala Mandi,Maize,Yellow,2026-07-02,1889,2145,2039
+Punjab,Ludhiana,Ludhiana Mandi,Gram,Desi,2026-07-02,4708,5699,5330
+Punjab,Amritsar,Amritsar Mandi,Gram,Desi,2026-07-02,4988,5538,5240
+Punjab,Patiala,Patiala Mandi,Gram,Desi,2026-07-02,5091,5828,5455
+Punjab,Ludhiana,Ludhiana Mandi,Sugarcane,Co-0238,2026-07-02,372,419,391
+Punjab,Amritsar,Amritsar Mandi,Sugarcane,Co-0238,2026-07-02,375,445,399
+Punjab,Patiala,Patiala Mandi,Sugarcane,Co-0238,2026-07-02,332,391,350
+Haryana,Karnal,Karnal Mandi,Wheat,Lokwan,2026-07-02,2034,2230,2140
+Haryana,Hisar,Hisar Mandi,Wheat,Lokwan,2026-07-02,2093,2382,2220
+Haryana,Rohtak,Rohtak Mandi,Wheat,Lokwan,2026-07-02,2270,2643,2392
+Haryana,Karnal,Karnal Mandi,Rice,Common,2026-07-02,2719,3339,3046
+Haryana,Hisar,Hisar Mandi,Rice,Common,2026-07-02,3118,3640,3283
+Haryana,Rohtak,Rohtak Mandi,Rice,Common,2026-07-02,2648,3290,2955
+Haryana,Karnal,Karnal Mandi,Onion,Red,2026-07-02,1462,1783,1616
+Haryana,Hisar,Hisar Mandi,Onion,Red,2026-07-02,1226,1493,1366
+Haryana,Rohtak,Rohtak Mandi,Onion,Red,2026-07-02,1555,1903,1716
+Haryana,Karnal,Karnal Mandi,Potato,Jyoti,2026-07-02,1436,1736,1591
+Haryana,Hisar,Hisar Mandi,Potato,Jyoti,2026-07-02,1130,1339,1209
+Haryana,Rohtak,Rohtak Mandi,Potato,Jyoti,2026-07-02,1088,1195,1139
+Haryana,Karnal,Karnal Mandi,Tomato,Hybrid,2026-07-02,2331,2811,2587
+Haryana,Hisar,Hisar Mandi,Tomato,Hybrid,2026-07-02,1009,1243,1143
+Haryana,Rohtak,Rohtak Mandi,Tomato,Hybrid,2026-07-02,1226,1392,1307
+Haryana,Karnal,Karnal Mandi,Mustard,Black (Sarson),2026-07-02,5484,6002,5720
+Haryana,Hisar,Hisar Mandi,Mustard,Black (Sarson),2026-07-02,5094,5938,5690
+Haryana,Rohtak,Rohtak Mandi,Mustard,Black (Sarson),2026-07-02,4881,6178,5546
+Haryana,Karnal,Karnal Mandi,Cotton,Medium Staple,2026-07-02,6827,8143,7302
+Haryana,Hisar,Hisar Mandi,Cotton,Medium Staple,2026-07-02,6784,8137,7573
+Haryana,Rohtak,Rohtak Mandi,Cotton,Medium Staple,2026-07-02,7210,8239,7560
+Haryana,Karnal,Karnal Mandi,Maize,Yellow,2026-07-02,2075,2403,2189
+Haryana,Hisar,Hisar Mandi,Maize,Yellow,2026-07-02,1844,2190,2003
+Haryana,Rohtak,Rohtak Mandi,Maize,Yellow,2026-07-02,1840,2145,2017
+Haryana,Karnal,Karnal Mandi,Gram,Desi,2026-07-02,4772,5827,5330
+Haryana,Hisar,Hisar Mandi,Gram,Desi,2026-07-02,5220,6215,5588
+Haryana,Rohtak,Rohtak Mandi,Gram,Desi,2026-07-02,5396,6253,5830
+Haryana,Karnal,Karnal Mandi,Sugarcane,Co-0238,2026-07-02,289,338,320
+Haryana,Hisar,Hisar Mandi,Sugarcane,Co-0238,2026-07-02,366,420,394
+Haryana,Rohtak,Rohtak Mandi,Sugarcane,Co-0238,2026-07-02,344,397,376
+Maharashtra,Nashik,Nashik Mandi,Wheat,Lokwan,2026-07-02,2162,2560,2292
+Maharashtra,Pune,Pune Mandi,Wheat,Lokwan,2026-07-02,1992,2270,2136
+Maharashtra,Nagpur,Nagpur Mandi,Wheat,Lokwan,2026-07-02,2223,2549,2389
+Maharashtra,Nashik,Nashik Mandi,Rice,Common,2026-07-02,2784,3154,2981
+Maharashtra,Pune,Pune Mandi,Rice,Common,2026-07-02,2592,3034,2907
+Maharashtra,Nagpur,Nagpur Mandi,Rice,Common,2026-07-02,3226,3825,3473
+Maharashtra,Nashik,Nashik Mandi,Onion,Red,2026-07-02,1673,1998,1832
+Maharashtra,Pune,Pune Mandi,Onion,Red,2026-07-02,1217,1390,1298
+Maharashtra,Nagpur,Nagpur Mandi,Onion,Red,2026-07-02,1545,1877,1718
+Maharashtra,Nashik,Nashik Mandi,Potato,Jyoti,2026-07-02,766,893,805
+Maharashtra,Pune,Pune Mandi,Potato,Jyoti,2026-07-02,857,961,909
+Maharashtra,Nagpur,Nagpur Mandi,Potato,Jyoti,2026-07-02,1393,1579,1512
+Maharashtra,Nashik,Nashik Mandi,Tomato,Hybrid,2026-07-02,1058,1165,1110
+Maharashtra,Pune,Pune Mandi,Tomato,Hybrid,2026-07-02,824,955,873
+Maharashtra,Nagpur,Nagpur Mandi,Tomato,Hybrid,2026-07-02,1618,1946,1744
+Maharashtra,Nashik,Nashik Mandi,Mustard,Black (Sarson),2026-07-02,5159,6095,5553
+Maharashtra,Pune,Pune Mandi,Mustard,Black (Sarson),2026-07-02,5134,6248,5616
+Maharashtra,Nagpur,Nagpur Mandi,Mustard,Black (Sarson),2026-07-02,5288,6109,5556
+Maharashtra,Nashik,Nashik Mandi,Cotton,Medium Staple,2026-07-02,6570,7890,7172
+Maharashtra,Pune,Pune Mandi,Cotton,Medium Staple,2026-07-02,6771,8272,7505
+Maharashtra,Nagpur,Nagpur Mandi,Cotton,Medium Staple,2026-07-02,6690,7638,7192
+Maharashtra,Nashik,Nashik Mandi,Maize,Yellow,2026-07-02,1770,2000,1889
+Maharashtra,Pune,Pune Mandi,Maize,Yellow,2026-07-02,1830,2189,2021
+Maharashtra,Nagpur,Nagpur Mandi,Maize,Yellow,2026-07-02,1713,2056,1920
+Maharashtra,Nashik,Nashik Mandi,Gram,Desi,2026-07-02,5016,5598,5356
+Maharashtra,Pune,Pune Mandi,Gram,Desi,2026-07-02,5092,6051,5617
+Maharashtra,Nagpur,Nagpur Mandi,Gram,Desi,2026-07-02,4719,5650,5263
+Maharashtra,Nashik,Nashik Mandi,Sugarcane,Co-0238,2026-07-02,377,410,394
+Maharashtra,Pune,Pune Mandi,Sugarcane,Co-0238,2026-07-02,358,409,393
+Maharashtra,Nagpur,Nagpur Mandi,Sugarcane,Co-0238,2026-07-02,330,391,365
+Gujarat,Rajkot,Rajkot Mandi,Wheat,Lokwan,2026-07-02,2090,2488,2264
+Gujarat,Ahmedabad,Ahmedabad Mandi,Wheat,Lokwan,2026-07-02,2244,2544,2358
+Gujarat,Surat,Surat Mandi,Wheat,Lokwan,2026-07-02,2003,2282,2189
+Gujarat,Rajkot,Rajkot Mandi,Rice,Common,2026-07-02,2976,3519,3188
+Gujarat,Ahmedabad,Ahmedabad Mandi,Rice,Common,2026-07-02,2688,3160,2838
+Gujarat,Surat,Surat Mandi,Rice,Common,2026-07-02,3482,4199,3774
+Gujarat,Rajkot,Rajkot Mandi,Onion,Red,2026-07-02,1917,2151,2055
+Gujarat,Ahmedabad,Ahmedabad Mandi,Onion,Red,2026-07-02,1583,1914,1777
+Gujarat,Surat,Surat Mandi,Onion,Red,2026-07-02,903,1068,1002
+Gujarat,Rajkot,Rajkot Mandi,Potato,Jyoti,2026-07-02,1146,1393,1265
+Gujarat,Ahmedabad,Ahmedabad Mandi,Potato,Jyoti,2026-07-02,1072,1326,1188
+Gujarat,Surat,Surat Mandi,Potato,Jyoti,2026-07-02,1108,1288,1231
+Gujarat,Rajkot,Rajkot Mandi,Tomato,Hybrid,2026-07-02,601,667,639
+Gujarat,Ahmedabad,Ahmedabad Mandi,Tomato,Hybrid,2026-07-02,2314,2784,2549
+Gujarat,Surat,Surat Mandi,Tomato,Hybrid,2026-07-02,2104,2294,2199
+Gujarat,Rajkot,Rajkot Mandi,Mustard,Black (Sarson),2026-07-02,4905,5418,5131
+Gujarat,Ahmedabad,Ahmedabad Mandi,Mustard,Black (Sarson),2026-07-02,4760,5423,5120
+Gujarat,Surat,Surat Mandi,Mustard,Black (Sarson),2026-07-02,5213,6059,5584
+Gujarat,Rajkot,Rajkot Mandi,Cotton,Medium Staple,2026-07-02,6096,7048,6646
+Gujarat,Ahmedabad,Ahmedabad Mandi,Cotton,Medium Staple,2026-07-02,6214,7571,6955
+Gujarat,Surat,Surat Mandi,Cotton,Medium Staple,2026-07-02,6062,6776,6434
+Gujarat,Rajkot,Rajkot Mandi,Maize,Yellow,2026-07-02,1785,2093,2009
+Gujarat,Ahmedabad,Ahmedabad Mandi,Maize,Yellow,2026-07-02,1860,2235,2009
+Gujarat,Surat,Surat Mandi,Maize,Yellow,2026-07-02,1862,2240,2042
+Gujarat,Rajkot,Rajkot Mandi,Gram,Desi,2026-07-02,4894,5839,5277
+Gujarat,Ahmedabad,Ahmedabad Mandi,Gram,Desi,2026-07-02,4839,6003,5448
+Gujarat,Surat,Surat Mandi,Gram,Desi,2026-07-02,5475,6193,5900
+Gujarat,Rajkot,Rajkot Mandi,Sugarcane,Co-0238,2026-07-02,370,419,392
+Gujarat,Ahmedabad,Ahmedabad Mandi,Sugarcane,Co-0238,2026-07-02,349,391,374
+Gujarat,Surat,Surat Mandi,Sugarcane,Co-0238,2026-07-02,320,390,363
+Bihar,Patna,Patna Mandi,Wheat,Lokwan,2026-07-02,2043,2569,2300
+Bihar,Muzaffarpur,Muzaffarpur Mandi,Wheat,Lokwan,2026-07-02,2259,2557,2375
+Bihar,Gaya,Gaya Mandi,Wheat,Lokwan,2026-07-02,1947,2338,2128
+Bihar,Patna,Patna Mandi,Rice,Common,2026-07-02,2837,3400,3053
+Bihar,Muzaffarpur,Muzaffarpur Mandi,Rice,Common,2026-07-02,3201,3860,3490
+Bihar,Gaya,Gaya Mandi,Rice,Common,2026-07-02,3347,4115,3713
+Bihar,Patna,Patna Mandi,Onion,Red,2026-07-02,972,1159,1077
+Bihar,Muzaffarpur,Muzaffarpur Mandi,Onion,Red,2026-07-02,1713,2024,1851
+Bihar,Gaya,Gaya Mandi,Onion,Red,2026-07-02,1401,1760,1588
+Bihar,Patna,Patna Mandi,Potato,Jyoti,2026-07-02,906,1053,986
+Bihar,Muzaffarpur,Muzaffarpur Mandi,Potato,Jyoti,2026-07-02,965,1181,1064
+Bihar,Gaya,Gaya Mandi,Potato,Jyoti,2026-07-02,1443,1646,1518
+Bihar,Patna,Patna Mandi,Tomato,Hybrid,2026-07-02,1585,1736,1658
+Bihar,Muzaffarpur,Muzaffarpur Mandi,Tomato,Hybrid,2026-07-02,1893,2249,2074
+Bihar,Gaya,Gaya Mandi,Tomato,Hybrid,2026-07-02,1021,1192,1092
+Bihar,Patna,Patna Mandi,Mustard,Black (Sarson),2026-07-02,5131,5834,5602
+Bihar,Muzaffarpur,Muzaffarpur Mandi,Mustard,Black (Sarson),2026-07-02,4849,5916,5401
+Bihar,Gaya,Gaya Mandi,Mustard,Black (Sarson),2026-07-02,5051,5789,5413
+Bihar,Patna,Patna Mandi,Cotton,Medium Staple,2026-07-02,6765,7876,7333
+Bihar,Muzaffarpur,Muzaffarpur Mandi,Cotton,Medium Staple,2026-07-02,6642,8032,7327
+Bihar,Gaya,Gaya Mandi,Cotton,Medium Staple,2026-07-02,6109,7149,6754
+Bihar,Patna,Patna Mandi,Maize,Yellow,2026-07-02,1987,2329,2219
+Bihar,Muzaffarpur,Muzaffarpur Mandi,Maize,Yellow,2026-07-02,2031,2326,2124
+Bihar,Gaya,Gaya Mandi,Maize,Yellow,2026-07-02,1748,2101,1948
+Bihar,Patna,Patna Mandi,Gram,Desi,2026-07-02,5560,6279,5803
+Bihar,Muzaffarpur,Muzaffarpur Mandi,Gram,Desi,2026-07-02,5261,6074,5489
+Bihar,Gaya,Gaya Mandi,Gram,Desi,2026-07-02,4943,5802,5503
+Bihar,Patna,Patna Mandi,Sugarcane,Co-0238,2026-07-02,301,337,321
+Bihar,Muzaffarpur,Muzaffarpur Mandi,Sugarcane,Co-0238,2026-07-02,311,352,325
+Bihar,Gaya,Gaya Mandi,Sugarcane,Co-0238,2026-07-02,313,370,336
+West Bengal,Kolkata,Kolkata Mandi,Wheat,Lokwan,2026-07-02,1997,2283,2102
+West Bengal,Burdwan,Burdwan Mandi,Wheat,Lokwan,2026-07-02,2103,2444,2290
+West Bengal,Malda,Malda Mandi,Wheat,Lokwan,2026-07-02,1869,2302,2076
+West Bengal,Kolkata,Kolkata Mandi,Rice,Common,2026-07-02,2585,2930,2733
+West Bengal,Burdwan,Burdwan Mandi,Rice,Common,2026-07-02,2455,2903,2651
+West Bengal,Malda,Malda Mandi,Rice,Common,2026-07-02,2506,3049,2810
+West Bengal,Kolkata,Kolkata Mandi,Onion,Red,2026-07-02,1350,1613,1522
+West Bengal,Burdwan,Burdwan Mandi,Onion,Red,2026-07-02,1922,2223,2042
+West Bengal,Malda,Malda Mandi,Onion,Red,2026-07-02,1283,1458,1362
+West Bengal,Kolkata,Kolkata Mandi,Potato,Jyoti,2026-07-02,1132,1362,1253
+West Bengal,Burdwan,Burdwan Mandi,Potato,Jyoti,2026-07-02,1121,1350,1239
+West Bengal,Malda,Malda Mandi,Potato,Jyoti,2026-07-02,1362,1492,1424
+West Bengal,Kolkata,Kolkata Mandi,Tomato,Hybrid,2026-07-02,1938,2285,2162
+West Bengal,Burdwan,Burdwan Mandi,Tomato,Hybrid,2026-07-02,1730,2068,1952
+West Bengal,Malda,Malda Mandi,Tomato,Hybrid,2026-07-02,1533,1800,1730
+West Bengal,Kolkata,Kolkata Mandi,Mustard,Black (Sarson),2026-07-02,5200,5992,5561
+West Bengal,Burdwan,Burdwan Mandi,Mustard,Black (Sarson),2026-07-02,4612,5629,5133
+West Bengal,Malda,Malda Mandi,Mustard,Black (Sarson),2026-07-02,4928,5890,5564
+West Bengal,Kolkata,Kolkata Mandi,Cotton,Medium Staple,2026-07-02,6357,7348,6741
+West Bengal,Burdwan,Burdwan Mandi,Cotton,Medium Staple,2026-07-02,7133,7976,7554
+West Bengal,Malda,Malda Mandi,Cotton,Medium Staple,2026-07-02,5943,7026,6435
+West Bengal,Kolkata,Kolkata Mandi,Maize,Yellow,2026-07-02,1879,2077,1986
+West Bengal,Burdwan,Burdwan Mandi,Maize,Yellow,2026-07-02,1825,2103,1934
+West Bengal,Malda,Malda Mandi,Maize,Yellow,2026-07-02,2042,2302,2141
+West Bengal,Kolkata,Kolkata Mandi,Gram,Desi,2026-07-02,5310,6224,5679
+West Bengal,Burdwan,Burdwan Mandi,Gram,Desi,2026-07-02,5040,5914,5478
+West Bengal,Malda,Malda Mandi,Gram,Desi,2026-07-02,4901,5869,5282
+West Bengal,Kolkata,Kolkata Mandi,Sugarcane,Co-0238,2026-07-02,335,376,361
+West Bengal,Burdwan,Burdwan Mandi,Sugarcane,Co-0238,2026-07-02,334,386,349
+West Bengal,Malda,Malda Mandi,Sugarcane,Co-0238,2026-07-02,364,409,393
+Karnataka,Bengaluru,Bengaluru Mandi,Wheat,Lokwan,2026-07-02,2264,2600,2394
+Karnataka,Hubli,Hubli Mandi,Wheat,Lokwan,2026-07-02,1963,2336,2139
+Karnataka,Belgaum,Belgaum Mandi,Wheat,Lokwan,2026-07-02,1961,2382,2192
+Karnataka,Bengaluru,Bengaluru Mandi,Rice,Common,2026-07-02,3592,4247,3800
+Karnataka,Hubli,Hubli Mandi,Rice,Common,2026-07-02,3143,3693,3462
+Karnataka,Belgaum,Belgaum Mandi,Rice,Common,2026-07-02,2575,2894,2714
+Karnataka,Bengaluru,Bengaluru Mandi,Onion,Red,2026-07-02,1728,2135,1914
+Karnataka,Hubli,Hubli Mandi,Onion,Red,2026-07-02,1789,2121,2026
+Karnataka,Belgaum,Belgaum Mandi,Onion,Red,2026-07-02,1283,1583,1416
+Karnataka,Bengaluru,Bengaluru Mandi,Potato,Jyoti,2026-07-02,1151,1342,1213
+Karnataka,Hubli,Hubli Mandi,Potato,Jyoti,2026-07-02,747,868,801
+Karnataka,Belgaum,Belgaum Mandi,Potato,Jyoti,2026-07-02,1082,1323,1223
+Karnataka,Bengaluru,Bengaluru Mandi,Tomato,Hybrid,2026-07-02,1763,2044,1875
+Karnataka,Hubli,Hubli Mandi,Tomato,Hybrid,2026-07-02,1906,2288,2156
+Karnataka,Belgaum,Belgaum Mandi,Tomato,Hybrid,2026-07-02,828,933,868
+Karnataka,Bengaluru,Bengaluru Mandi,Mustard,Black (Sarson),2026-07-02,4979,6255,5596
+Karnataka,Hubli,Hubli Mandi,Mustard,Black (Sarson),2026-07-02,5402,6277,5723
+Karnataka,Belgaum,Belgaum Mandi,Mustard,Black (Sarson),2026-07-02,5007,5874,5418
+Karnataka,Bengaluru,Bengaluru Mandi,Cotton,Medium Staple,2026-07-02,5738,7076,6390
+Karnataka,Hubli,Hubli Mandi,Cotton,Medium Staple,2026-07-02,5898,6750,6432
+Karnataka,Belgaum,Belgaum Mandi,Cotton,Medium Staple,2026-07-02,5993,7149,6515
+Karnataka,Bengaluru,Bengaluru Mandi,Maize,Yellow,2026-07-02,1976,2265,2110
+Karnataka,Hubli,Hubli Mandi,Maize,Yellow,2026-07-02,2010,2222,2097
+Karnataka,Belgaum,Belgaum Mandi,Maize,Yellow,2026-07-02,1901,2250,2132
+Karnataka,Bengaluru,Bengaluru Mandi,Gram,Desi,2026-07-02,5352,6454,5813
+Karnataka,Hubli,Hubli Mandi,Gram,Desi,2026-07-02,4755,5815,5271
+Karnataka,Belgaum,Belgaum Mandi,Gram,Desi,2026-07-02,5102,6203,5624
+Karnataka,Bengaluru,Bengaluru Mandi,Sugarcane,Co-0238,2026-07-02,335,376,354
+Karnataka,Hubli,Hubli Mandi,Sugarcane,Co-0238,2026-07-02,339,389,358
+Karnataka,Belgaum,Belgaum Mandi,Sugarcane,Co-0238,2026-07-02,363,411,382
+Tamil Nadu,Coimbatore,Coimbatore Mandi,Wheat,Lokwan,2026-07-02,2085,2490,2297
+Tamil Nadu,Madurai,Madurai Mandi,Wheat,Lokwan,2026-07-02,2119,2595,2328
+Tamil Nadu,Salem,Salem Mandi,Wheat,Lokwan,2026-07-02,2057,2273,2146
+Tamil Nadu,Coimbatore,Coimbatore Mandi,Rice,Common,2026-07-02,2951,3619,3284
+Tamil Nadu,Madurai,Madurai Mandi,Rice,Common,2026-07-02,2344,2791,2589
+Tamil Nadu,Salem,Salem Mandi,Rice,Common,2026-07-02,2988,3585,3280
+Tamil Nadu,Coimbatore,Coimbatore Mandi,Onion,Red,2026-07-02,1114,1263,1211
+Tamil Nadu,Madurai,Madurai Mandi,Onion,Red,2026-07-02,1846,2056,1928
+Tamil Nadu,Salem,Salem Mandi,Onion,Red,2026-07-02,1050,1188,1105
+Tamil Nadu,Coimbatore,Coimbatore Mandi,Potato,Jyoti,2026-07-02,1275,1393,1338
+Tamil Nadu,Madurai,Madurai Mandi,Potato,Jyoti,2026-07-02,864,1034,947
+Tamil Nadu,Salem,Salem Mandi,Potato,Jyoti,2026-07-02,849,1056,958
+Tamil Nadu,Coimbatore,Coimbatore Mandi,Tomato,Hybrid,2026-07-02,1036,1251,1142
+Tamil Nadu,Madurai,Madurai Mandi,Tomato,Hybrid,2026-07-02,1711,2058,1930
+Tamil Nadu,Salem,Salem Mandi,Tomato,Hybrid,2026-07-02,1879,2120,1981
+Tamil Nadu,Coimbatore,Coimbatore Mandi,Mustard,Black (Sarson),2026-07-02,5045,6026,5424
+Tamil Nadu,Madurai,Madurai Mandi,Mustard,Black (Sarson),2026-07-02,5318,5839,5599
+Tamil Nadu,Salem,Salem Mandi,Mustard,Black (Sarson),2026-07-02,4647,5660,5170
+Tamil Nadu,Coimbatore,Coimbatore Mandi,Cotton,Medium Staple,2026-07-02,6515,7465,6788
+Tamil Nadu,Madurai,Madurai Mandi,Cotton,Medium Staple,2026-07-02,6792,7803,7088
+Tamil Nadu,Salem,Salem Mandi,Cotton,Medium Staple,2026-07-02,5864,7017,6405
+Tamil Nadu,Coimbatore,Coimbatore Mandi,Maize,Yellow,2026-07-02,1647,2057,1864
+Tamil Nadu,Madurai,Madurai Mandi,Maize,Yellow,2026-07-02,1817,2149,2000
+Tamil Nadu,Salem,Salem Mandi,Maize,Yellow,2026-07-02,1822,2143,1975
+Tamil Nadu,Coimbatore,Coimbatore Mandi,Gram,Desi,2026-07-02,4811,5633,5384
+Tamil Nadu,Madurai,Madurai Mandi,Gram,Desi,2026-07-02,5197,5922,5591
+Tamil Nadu,Salem,Salem Mandi,Gram,Desi,2026-07-02,5168,6243,5797
+Tamil Nadu,Coimbatore,Coimbatore Mandi,Sugarcane,Co-0238,2026-07-02,323,385,352
+Tamil Nadu,Madurai,Madurai Mandi,Sugarcane,Co-0238,2026-07-02,361,415,379
+Tamil Nadu,Salem,Salem Mandi,Sugarcane,Co-0238,2026-07-02,301,379,340
+Andhra Pradesh,Guntur,Guntur Mandi,Wheat,Lokwan,2026-07-02,2124,2625,2350
+Andhra Pradesh,Vijayawada,Vijayawada Mandi,Wheat,Lokwan,2026-07-02,1996,2318,2178
+Andhra Pradesh,Kurnool,Kurnool Mandi,Wheat,Lokwan,2026-07-02,2130,2355,2246
+Andhra Pradesh,Guntur,Guntur Mandi,Rice,Common,2026-07-02,3037,3563,3281
+Andhra Pradesh,Vijayawada,Vijayawada Mandi,Rice,Common,2026-07-02,2737,3434,3104
+Andhra Pradesh,Kurnool,Kurnool Mandi,Rice,Common,2026-07-02,2985,3592,3310
+Andhra Pradesh,Guntur,Guntur Mandi,Onion,Red,2026-07-02,953,1100,1000
+Andhra Pradesh,Vijayawada,Vijayawada Mandi,Onion,Red,2026-07-02,1400,1573,1486
+Andhra Pradesh,Kurnool,Kurnool Mandi,Onion,Red,2026-07-02,1455,1710,1621
+Andhra Pradesh,Guntur,Guntur Mandi,Potato,Jyoti,2026-07-02,987,1159,1056
+Andhra Pradesh,Vijayawada,Vijayawada Mandi,Potato,Jyoti,2026-07-02,1378,1550,1475
+Andhra Pradesh,Kurnool,Kurnool Mandi,Potato,Jyoti,2026-07-02,856,981,899
+Andhra Pradesh,Guntur,Guntur Mandi,Tomato,Hybrid,2026-07-02,1162,1285,1232
+Andhra Pradesh,Vijayawada,Vijayawada Mandi,Tomato,Hybrid,2026-07-02,1264,1411,1347
+Andhra Pradesh,Kurnool,Kurnool Mandi,Tomato,Hybrid,2026-07-02,1091,1292,1204
+Andhra Pradesh,Guntur,Guntur Mandi,Mustard,Black (Sarson),2026-07-02,4724,5746,5305
+Andhra Pradesh,Vijayawada,Vijayawada Mandi,Mustard,Black (Sarson),2026-07-02,5050,6093,5474
+Andhra Pradesh,Kurnool,Kurnool Mandi,Mustard,Black (Sarson),2026-07-02,4744,5826,5268
+Andhra Pradesh,Guntur,Guntur Mandi,Cotton,Medium Staple,2026-07-02,6880,7643,7186
+Andhra Pradesh,Vijayawada,Vijayawada Mandi,Cotton,Medium Staple,2026-07-02,6509,7427,6893
+Andhra Pradesh,Kurnool,Kurnool Mandi,Cotton,Medium Staple,2026-07-02,5663,7099,6354
+Andhra Pradesh,Guntur,Guntur Mandi,Maize,Yellow,2026-07-02,2060,2456,2196
+Andhra Pradesh,Vijayawada,Vijayawada Mandi,Maize,Yellow,2026-07-02,1941,2355,2135
+Andhra Pradesh,Kurnool,Kurnool Mandi,Maize,Yellow,2026-07-02,1673,1950,1857
+Andhra Pradesh,Guntur,Guntur Mandi,Gram,Desi,2026-07-02,5208,6100,5577
+Andhra Pradesh,Vijayawada,Vijayawada Mandi,Gram,Desi,2026-07-02,5279,6326,5798
+Andhra Pradesh,Kurnool,Kurnool Mandi,Gram,Desi,2026-07-02,4959,5908,5580
+Andhra Pradesh,Guntur,Guntur Mandi,Sugarcane,Co-0238,2026-07-02,300,360,323
+Andhra Pradesh,Vijayawada,Vijayawada Mandi,Sugarcane,Co-0238,2026-07-02,344,382,361
+Andhra Pradesh,Kurnool,Kurnool Mandi,Sugarcane,Co-0238,2026-07-02,305,353,328
+Telangana,Hyderabad,Hyderabad Mandi,Wheat,Lokwan,2026-07-02,2054,2313,2204
+Telangana,Warangal,Warangal Mandi,Wheat,Lokwan,2026-07-02,1981,2206,2073
+Telangana,Nizamabad,Nizamabad Mandi,Wheat,Lokwan,2026-07-02,2047,2437,2302
+Telangana,Hyderabad,Hyderabad Mandi,Rice,Common,2026-07-02,3207,3875,3600
+Telangana,Warangal,Warangal Mandi,Rice,Common,2026-07-02,3294,3964,3606
+Telangana,Nizamabad,Nizamabad Mandi,Rice,Common,2026-07-02,2678,3076,2816
+Telangana,Hyderabad,Hyderabad Mandi,Onion,Red,2026-07-02,1767,2121,1902
+Telangana,Warangal,Warangal Mandi,Onion,Red,2026-07-02,1299,1575,1472
+Telangana,Nizamabad,Nizamabad Mandi,Onion,Red,2026-07-02,1655,1914,1808
+Telangana,Hyderabad,Hyderabad Mandi,Potato,Jyoti,2026-07-02,1040,1282,1171
+Telangana,Warangal,Warangal Mandi,Potato,Jyoti,2026-07-02,1292,1481,1357
+Telangana,Nizamabad,Nizamabad Mandi,Potato,Jyoti,2026-07-02,786,910,862
+Telangana,Hyderabad,Hyderabad Mandi,Tomato,Hybrid,2026-07-02,813,940,850
+Telangana,Warangal,Warangal Mandi,Tomato,Hybrid,2026-07-02,734,859,787
+Telangana,Nizamabad,Nizamabad Mandi,Tomato,Hybrid,2026-07-02,1745,1902,1822
+Telangana,Hyderabad,Hyderabad Mandi,Mustard,Black (Sarson),2026-07-02,4894,5713,5441
+Telangana,Warangal,Warangal Mandi,Mustard,Black (Sarson),2026-07-02,5090,6282,5678
+Telangana,Nizamabad,Nizamabad Mandi,Mustard,Black (Sarson),2026-07-02,5081,5992,5667
+Telangana,Hyderabad,Hyderabad Mandi,Cotton,Medium Staple,2026-07-02,6051,7023,6677
+Telangana,Warangal,Warangal Mandi,Cotton,Medium Staple,2026-07-02,6531,8226,7420
+Telangana,Nizamabad,Nizamabad Mandi,Cotton,Medium Staple,2026-07-02,6230,7037,6496
+Telangana,Hyderabad,Hyderabad Mandi,Maize,Yellow,2026-07-02,1723,2151,1939
+Telangana,Warangal,Warangal Mandi,Maize,Yellow,2026-07-02,1689,2115,1917
+Telangana,Nizamabad,Nizamabad Mandi,Maize,Yellow,2026-07-02,1827,2052,1971
+Telangana,Hyderabad,Hyderabad Mandi,Gram,Desi,2026-07-02,4837,6014,5471
+Telangana,Warangal,Warangal Mandi,Gram,Desi,2026-07-02,5102,5997,5738
+Telangana,Nizamabad,Nizamabad Mandi,Gram,Desi,2026-07-02,5332,6118,5659
+Telangana,Hyderabad,Hyderabad Mandi,Sugarcane,Co-0238,2026-07-02,305,352,333
+Telangana,Warangal,Warangal Mandi,Sugarcane,Co-0238,2026-07-02,352,439,398
+Telangana,Nizamabad,Nizamabad Mandi,Sugarcane,Co-0238,2026-07-02,349,421,386
